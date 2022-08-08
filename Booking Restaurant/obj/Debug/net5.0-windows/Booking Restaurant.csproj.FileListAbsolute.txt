@@ -1,0 +1,73 @@
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Booking Restaurant.exe
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Booking Restaurant.deps.json
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Booking Restaurant.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Booking Restaurant.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Booking Restaurant.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\ref\Booking Restaurant.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Booking Restaurant.pdb
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\ref\Booking Restaurant.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.pdb
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking Restaurant.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.LoginGUI.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.MainGUI.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.Booking.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.SignupGUI.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.RegistrationGUI.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.TableGUI.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.EditTable.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.AccountGUI.resources
+C:\Users\ADMIN\source\repos\Booking Restaurant\Booking Restaurant\obj\Debug\net5.0-windows\Booking_Restaurant.AccountDetails.resources
